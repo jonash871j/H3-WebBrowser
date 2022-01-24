@@ -1,5 +1,4 @@
 ﻿using HtmlAgilityPack;
-using WebBrowserLib;
 
 namespace WebBrowser
 {
